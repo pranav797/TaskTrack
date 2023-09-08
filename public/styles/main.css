@@ -1,0 +1,57 @@
+button {
+    display: flex;
+    justify-content: right;
+}
+
+input {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.main-background {
+    background-color:#fad455;
+}
+
+.big-container {
+    margin: 3rem;
+    background-color: #FFF7D4;
+    border: 5px solid;
+    border-color: #4C3D3D;
+    border-radius: 25px;
+}
+
+.navbar-custom {
+    background-color: #4C3D3D;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.list-title {
+    padding-top: 50px;
+}
+
+.text-custom {
+    color: #4C3D3D !important;
+}
+
+.special-text {
+    color: #DAFFFB;
+}
+
+.custom-button {
+    border-radius: 50%;
+    padding: 0px;
+    height: 3rem;
+    width: 3rem;
+    background-color: #fad455;
+}
+
+.hover-button:hover {
+    background-color: gray;
+}
+
+.task-track-title {
+    padding-top: 2rem;
+    font-family: 'Impact', sans-serif;
+    font-size: 4rem;
+}
